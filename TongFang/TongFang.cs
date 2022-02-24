@@ -95,6 +95,7 @@ namespace TongFang
 
                     SetRowIndex(row);
                     _deviceStream.Write(packet);
+                    System.Threading.Thread.Sleep(1);
                 }
             }
             catch

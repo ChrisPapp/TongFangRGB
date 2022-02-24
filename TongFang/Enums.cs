@@ -265,7 +265,7 @@ namespace TongFang
             [Key.NUMPAD_ENTER] = new byte[] { 102 },
             //Row 5
             [Key.LEFT_CONTROL] = new byte[] { 105, 106 },
-            [Key.LEFT_FN] = new byte[] { 107 },
+            [Key.LEFT_FN] = new byte[] { 106 },
             [Key.LEFT_WINDOWS] = new byte[] { 108 },
             [Key.LEFT_ALT] = new byte[] { 109 },
             [Key.SPACE] = new byte[] { 110, 111, 112, 113, 114 },
@@ -361,7 +361,7 @@ namespace TongFang
             [Key.END] = new byte[] { 99 },
 
             [Key.LEFT_CONTROL] = new byte[] { 105 },
-            [Key.LEFT_FN] = new byte[] { 107 },
+            [Key.LEFT_FN] = new byte[] { 106 },
             [Key.LEFT_WINDOWS] = new byte[] { 108 },
             [Key.LEFT_ALT] = new byte[] { 109 },
             [Key.SPACE] = new byte[] { 112 },
